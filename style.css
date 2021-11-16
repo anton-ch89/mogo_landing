@@ -32,6 +32,7 @@ section {
   color: #fff;
   background: url("./img/main_background.jpg") center no-repeat;
   background-size: cover;
+  height: 100vh;
 }
 
 .header {
@@ -1104,7 +1105,7 @@ footer h4 {
     width: 100%;
   }
   .design-iphone img {
-    width: 100%;
+    width: 90%;
   }
   .wedo-list {
     justify-content: center;
